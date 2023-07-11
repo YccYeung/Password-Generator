@@ -1,3 +1,3 @@
 # Password-generator
 
-simple python program for produce password in strong or weak level
+Simple python program for producing passwords in strong or weak level
